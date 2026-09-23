@@ -6,6 +6,7 @@
 [![python](https://img.shields.io/badge/python-3.10+-blue)](#quickstart)
 [![runs](https://img.shields.io/badge/runs-offline-informational)](#quickstart)
 [![deps](https://img.shields.io/badge/deps-none-success)](#quickstart)
+[![ci](https://github.com/sergio-lim/prompt-injection-lab/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sergio-lim/prompt-injection-lab/actions/workflows/ci.yml)
 
 ![demo](assets/demo.gif)
 
